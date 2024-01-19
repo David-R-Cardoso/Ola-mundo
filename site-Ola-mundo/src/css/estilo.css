@@ -20,6 +20,8 @@ h1{
     display: none;
 
     border: 30px solid rgb(255, 0, 0) ;
+    color: aqua;
+
     border-radius: 50px;
     padding: 10px;
     margin: 100px;
